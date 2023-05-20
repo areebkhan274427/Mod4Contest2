@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mod4Contest2/static/css/main.796bf5f1.css",
+    "main.js": "/Mod4Contest2/static/js/main.82d6c767.js",
+    "index.html": "/Mod4Contest2/index.html",
+    "main.796bf5f1.css.map": "/Mod4Contest2/static/css/main.796bf5f1.css.map",
+    "main.82d6c767.js.map": "/Mod4Contest2/static/js/main.82d6c767.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.796bf5f1.css",
+    "static/js/main.82d6c767.js"
+  ]
+}
